@@ -57,8 +57,8 @@ Deployed on: https://grupo-4-webyte.herokuapp.com/
 <img src="https://github.com/Haap92/Haap92/blob/main/img/banner/contact.png"/>
 
 <p align="center">
-  <a href ="mailto:haap92@gmail.com"><img alt="Haap92's Email" src="https://github.com/Haap92/Haap92/blob/main/img/social/email.png" width="45" height="45"></a>
-  <a href ="https://www.linkedin.com/in/hernanarismendi/" rel="nofollow" target="_blank"><img alt="Haap92's LinkedIn" src="https://github.com/Haap92/Haap92/blob/main/img/social/linkedIn.png" width="45" height="45"></a>
+  <a href ="mailto:haap92@gmail.com"><img alt="Haap92's Email" src="https://github.com/Haap92/Haap92/blob/main/img/social/Email.png" width="45" height="45"></a>
+  <a href ="https://www.linkedin.com/in/hernanarismendi/" rel="nofollow" target="_blank"><img alt="Haap92's LinkedIn" src="https://github.com/Haap92/Haap92/blob/main/img/social/LinkedIn.png" width="45" height="45"></a>
   <a href ="https://www.github.com/Haap92/" rel="nofollow" target="_blank"><img alt="Haap92's GitHub" src="https://github.com/Haap92/Haap92/blob/main/img/social/gitHub.png" width="45" height="45"></a>
  </p>
 <!--
