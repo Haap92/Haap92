@@ -1,5 +1,5 @@
 # Hernan Arismendi
-### Front End Dev | Javascript, NodeJS, ReactJS |
+### Front End Dev | Javascript - NodeJS - ReactJS |
 
 ---
 
