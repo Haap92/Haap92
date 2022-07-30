@@ -1,4 +1,5 @@
-<img src="https://github.com/Haap92/Haap92/main/img/banner/presentation.png"/>
+# Hernan Arismendi
+### Front End Dev | Javascript, NodeJS, ReactJS |
 
 ---
 
