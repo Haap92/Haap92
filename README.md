@@ -1,4 +1,4 @@
-<img src="https://github.com/Haap92/Haap92/blob/main/img/banner/presentation.png"/>
+<img src="https://github.com/Haap92/Haap92/main/img/banner/presentation.png"/>
 
 ---
 
