@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p>
 I am motivated to train as a high-end web developer. I am confident in my ability to learn new tools in order to create excellent memorable developments in specialized work teams. I feel that my background as an engineer will help me a lot to achieve my goals since I had the opportunity to work both as a client and as a service provider and I know the approach and needs from both points of view.
 </p>
 
