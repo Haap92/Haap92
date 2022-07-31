@@ -1,4 +1,4 @@
-# Hernan Arismendi
+# Hernan A. Arismendi P.
 ### Front End Dev | Javascript - NodeJS - ReactJS |
 
 ---
