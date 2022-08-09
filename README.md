@@ -9,7 +9,7 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 
 ---
 
-<img src="https://github.com/Haap92/Haap92/blob/main/img/banner/skills.png"/>
+![Haap92 Skills](https://github.com/Haap92/Haap92/blob/main/img/banner/skills.png)
 <p align="center">
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/javascript.png" width="45" height="45" align="center"/>
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills//html5.png" width="45" height="45" align="center"/>
@@ -31,13 +31,15 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 
 ---
 
-<img src="https://github.com/Haap92/Haap92/blob/main/img/banner/projects.png"/>
+![Haap92 Banner Projects](https://github.com/Haap92/Haap92/blob/main/img/banner/projects.png)
 
 ## Roloi Store
 
 #### A non responsive desktop app e-commerce for the sale of vintage wrist watches developed on ReactJS.
 
 ![Roloi Store Gif](https://media3.giphy.com/media/TIoGdr8UnfDNlR6oYQ/giphy.gif)
+
+### [Deploy](https://roloistore.vercel.app/)
 
 ### Technologies & Languages:
 - [ReactJS](https://es.reactjs.org/) - Version: 18.2.0.
@@ -49,15 +51,15 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 ### Repository:
 - [Webb App](https://github.com/Haap92/roloi-arismendi)
 
-[Deploy](https://roloistore.vercel.app/)
-
 ---
 
 ## WeByte
 
 #### An e-commerce for the sale of sportswear from different brands. Our target audience were men and women between the ages of 20 and 45 who seek to train and be comfortable with modern and different clothing. This repository responds to Sprint 8 of the integrating project from the Full Stack web development course of Digital House.
 
-<img src="https://github.com/Haap92/Haap92/blob/main/img/previews/webyte.png"/>
+![webyte png](https://github.com/Haap92/Haap92/blob/main/img/previews/webyte.png)
+
+### [Deploy](https://grupo-4-webyte.herokuapp.com/) 
 
 Development Team:
 - [Gabriela Mangoni](https://github.com/gabyMangoni)
@@ -80,11 +82,9 @@ Development Team:
 - [Webb App](https://github.com/Haap92/grupo_4_WeByte)
 - [ReactJS Dashboard](https://github.com/Haap92/grupo_4_WeByte_dashboard)
 
-[Deploy](https://grupo-4-webyte.herokuapp.com/) 
-
 ---
 
-<img src="https://github.com/Haap92/Haap92/blob/main/img/banner/contact.png"/>
+![Haap92 Banner](https://github.com/Haap92/Haap92/blob/main/img/banner/contact.png)
 
 <p align="center">
   <a href ="mailto:haap92@gmail.com"><img alt="Haap92's Email" src="https://github.com/Haap92/Haap92/blob/main/img/social/Email.png" width="45" height="45"></a>
