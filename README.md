@@ -37,7 +37,7 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 
 #### A non responsive desktop app e-commerce for the sale of vintage wrist watches developed on ReactJS.
 
-![Roloi Store Gif](https://media3.giphy.com/media/TIoGdr8UnfDNlR6oYQ/giphy.gif)
+[![Roloi Store Gif](https://media3.giphy.com/media/TIoGdr8UnfDNlR6oYQ/giphy.gif)](https://roloistore.vercel.app/)
 
 ### [Deploy](https://roloistore.vercel.app/)
 
@@ -57,7 +57,7 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 
 #### An e-commerce for the sale of sportswear from different brands. Our target audience were men and women between the ages of 20 and 45 who seek to train and be comfortable with modern and different clothing. This repository responds to Sprint 8 of the integrating project from the Full Stack web development course of Digital House.
 
-![webyte png](https://github.com/Haap92/Haap92/blob/main/img/previews/webyte.png)
+[![webyte png](https://github.com/Haap92/Haap92/blob/main/img/previews/webyte.png)](https://grupo-4-webyte.herokuapp.com/) 
 
 ### [Deploy](https://grupo-4-webyte.herokuapp.com/) 
 
