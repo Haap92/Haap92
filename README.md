@@ -49,7 +49,7 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 - CSS-in-JS.
 
 ### Repository:
-- [Webb App](https://github.com/Haap92/roloi-arismendi)
+- [Web App](https://github.com/Haap92/roloi-arismendi)
 
 ---
 
@@ -79,7 +79,7 @@ Development Team:
 - APIs.
 
 ### Repositories:
-- [Webb App](https://github.com/Haap92/grupo_4_WeByte)
+- [Web App](https://github.com/Haap92/grupo_4_WeByte)
 - [ReactJS Dashboard](https://github.com/Haap92/grupo_4_WeByte_dashboard)
 
 ---
