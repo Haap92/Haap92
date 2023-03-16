@@ -50,10 +50,6 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 
 ---
 
----
-
-![Haap92 Banner Projects](https://github.com/Haap92/Haap92/blob/main/img/banner/projects.png)
-
 ## Roloi Store
 
 #### A non responsive desktop app e-commerce for the sale of vintage wrist watches developed on ReactJS.
