@@ -33,6 +33,27 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 
 ![Haap92 Banner Projects](https://github.com/Haap92/Haap92/blob/main/img/banner/projects.png)
 
+## Pokedex
+
+#### A non responsive desktop app to reach documentation about Pokemons fetching the PokeApi developed on Angular.
+
+[![Pokedex Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU5OGE5OGZmNmI4YzFmNzkzMTI5OTIzMDcxZDU4MmY3OGUzZTA3NCZjdD1n/7w5IfA2EPngb81d5rm/giphy.gif)](https://pokedex-eta-neon.vercel.app/)
+
+### [Deploy](https://pokedex-eta-neon.vercel.app/)
+
+### Technologies & Languages:
+- [Angular](https://angular.io/) - Version: 15.1.5.
+- [NodeJS](https://nodejs.org/es/) - Version: 18.14.0.
+
+### Repository:
+- [Web App](https://github.com/Haap92/pokedex)
+
+---
+
+---
+
+![Haap92 Banner Projects](https://github.com/Haap92/Haap92/blob/main/img/banner/projects.png)
+
 ## Roloi Store
 
 #### A non responsive desktop app e-commerce for the sale of vintage wrist watches developed on ReactJS.
