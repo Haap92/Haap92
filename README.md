@@ -1,5 +1,5 @@
 # Hernan A. Arismendi P.
-### Front End Dev | Javascript - NodeJS - ReactJS |
+### FS Dev | Javascript/Typescript - NodeJS - React/Angular |
 
 ---
 
@@ -12,9 +12,11 @@ I am motivated to train as a high-end web developer. I am confident in my abilit
 ![Haap92 Skills](https://github.com/Haap92/Haap92/blob/main/img/banner/skills.png)
 <p align="center">
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/javascript.png" width="45" height="45" align="center"/>
+  <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/typescript.png" width="45" height="45" align="center"/>
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills//html5.png" width="45" height="45" align="center"/>
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/css.png" width="45" height="45" align="center"/>
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/react.png" width="45" height="45" align="center"/>
+  <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/angular.png" width="45" height="45" align="center"/>
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/nodejs.png" width="45" height="45" align="center"/>
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/express.png" width="45" height="45" align="center"/>
   <img src="https://github.com/Haap92/Haap92/blob/main/img/skills/sequelize.png" width="45" height="45" align="center"/>
